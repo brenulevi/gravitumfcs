@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c620d61c-b77b-4c92-8831-2329ae638d12")
+	(paper "A4")
+	(lib_symbols)
+	(text "Power Supply"
+		(exclude_from_sim no)
+		(at 37.846 18.288 0)
+		(effects
+			(font
+				(size 4.445 4.445)
+				(thickness 0.889)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "e882e888-a29f-4abc-8202-66500c655b63")
+	)
+)
