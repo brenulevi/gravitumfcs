@@ -2673,7 +2673,7 @@
 		(uuid 605a400b-a904-43ee-9718-4de42c049b1b)
 	)
 	(rectangle
-		(start 21.59 68.58)
+		(start 16.51 68.58)
 		(end 125.73 113.03)
 		(stroke
 			(width 0)
@@ -2722,7 +2722,7 @@
 	)
 	(text "To be used with DFU capability"
 		(exclude_from_sim no)
-		(at 74.422 70.358 0)
+		(at 69.342 70.358 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2802,7 +2802,7 @@
 	)
 	(text "USB programming"
 		(exclude_from_sim no)
-		(at 30.48 114.808 0)
+		(at 25.4 114.808 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2817,13 +2817,13 @@
 		(uuid "0d1906e2-f44c-415c-87e5-7b5502e681c1")
 	)
 	(junction
-		(at 82.55 102.87)
+		(at 77.47 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f995ac8-88ce-4bb2-bca5-d5c21561cc67")
 	)
 	(junction
-		(at 92.71 86.36)
+		(at 87.63 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d44027a-a32c-4d04-b747-5a2884ee74a4")
@@ -2859,7 +2859,7 @@
 		(uuid "81d15780-eb90-490d-bdca-0b82ddd41cde")
 	)
 	(junction
-		(at 38.1 86.36)
+		(at 33.02 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6547963-353d-4151-b836-f3c7548cbb03")
@@ -2883,7 +2883,7 @@
 		(uuid "ee20b044-615f-45ea-8638-61652232b403")
 	)
 	(junction
-		(at 27.94 102.87)
+		(at 22.86 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efb56674-b907-471a-882a-e2538efb3cca")
@@ -2946,7 +2946,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 91.44) (xy 41.91 91.44)
+			(xy 30.48 91.44) (xy 36.83 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2956,7 +2956,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 110.49) (xy 99.06 110.49)
+			(xy 86.36 110.49) (xy 93.98 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2996,7 +2996,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 91.44) (xy 96.52 95.25)
+			(xy 91.44 91.44) (xy 91.44 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3036,7 +3036,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 86.36) (xy 92.71 76.2)
+			(xy 87.63 86.36) (xy 87.63 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3116,7 +3116,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 86.36) (xy 38.1 76.2)
+			(xy 33.02 86.36) (xy 33.02 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3136,7 +3136,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 96.52) (xy 91.44 96.52)
+			(xy 85.09 96.52) (xy 86.36 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3226,7 +3226,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 96.52) (xy 91.44 110.49)
+			(xy 86.36 96.52) (xy 86.36 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3236,7 +3236,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 102.87) (xy 80.01 101.6)
+			(xy 74.93 102.87) (xy 74.93 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3256,7 +3256,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 86.36) (xy 53.34 86.36)
+			(xy 43.18 86.36) (xy 48.26 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3266,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 76.2) (xy 43.18 76.2)
+			(xy 33.02 76.2) (xy 38.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3306,7 +3306,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 91.44) (xy 41.91 95.25)
+			(xy 36.83 91.44) (xy 36.83 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3356,7 +3356,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 102.87) (xy 82.55 104.14)
+			(xy 77.47 102.87) (xy 77.47 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3366,7 +3366,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 95.25) (xy 44.45 95.25)
+			(xy 36.83 95.25) (xy 39.37 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3466,7 +3466,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 93.98) (xy 39.37 93.98)
+			(xy 30.48 93.98) (xy 34.29 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3486,7 +3486,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 102.87) (xy 27.94 104.14)
+			(xy 22.86 102.87) (xy 22.86 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3506,7 +3506,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 86.36) (xy 38.1 86.36)
+			(xy 30.48 86.36) (xy 33.02 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3546,7 +3546,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 76.2) (xy 97.79 76.2)
+			(xy 87.63 76.2) (xy 92.71 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3566,7 +3566,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 96.52) (xy 36.83 110.49)
+			(xy 31.75 96.52) (xy 31.75 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3606,7 +3606,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 86.36) (xy 95.25 86.36)
+			(xy 87.63 86.36) (xy 90.17 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3616,7 +3616,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 86.36) (xy 107.95 86.36)
+			(xy 97.79 86.36) (xy 102.87 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3636,7 +3636,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 95.25) (xy 99.06 95.25)
+			(xy 91.44 95.25) (xy 93.98 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3666,7 +3666,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 102.87) (xy 80.01 102.87)
+			(xy 77.47 102.87) (xy 74.93 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3726,7 +3726,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 93.98) (xy 93.98 93.98)
+			(xy 85.09 93.98) (xy 88.9 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3776,7 +3776,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 96.52) (xy 36.83 96.52)
+			(xy 30.48 96.52) (xy 31.75 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3816,7 +3816,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 86.36) (xy 92.71 86.36)
+			(xy 85.09 86.36) (xy 87.63 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3836,7 +3836,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 101.6) (xy 27.94 102.87)
+			(xy 22.86 101.6) (xy 22.86 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3886,7 +3886,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 93.98) (xy 93.98 102.87)
+			(xy 88.9 93.98) (xy 88.9 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3916,7 +3916,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 102.87) (xy 25.4 102.87)
+			(xy 22.86 102.87) (xy 20.32 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3936,7 +3936,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 101.6) (xy 82.55 102.87)
+			(xy 77.47 101.6) (xy 77.47 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3976,7 +3976,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 86.36) (xy 40.64 86.36)
+			(xy 33.02 86.36) (xy 35.56 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3996,7 +3996,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 93.98) (xy 39.37 102.87)
+			(xy 34.29 93.98) (xy 34.29 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4046,7 +4046,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 91.44) (xy 96.52 91.44)
+			(xy 85.09 91.44) (xy 91.44 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4056,7 +4056,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 102.87) (xy 44.45 102.87)
+			(xy 34.29 102.87) (xy 39.37 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4086,7 +4086,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 102.87) (xy 25.4 101.6)
+			(xy 20.32 102.87) (xy 20.32 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4096,7 +4096,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 102.87) (xy 99.06 102.87)
+			(xy 88.9 102.87) (xy 93.98 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4116,7 +4116,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 110.49) (xy 44.45 110.49)
+			(xy 31.75 110.49) (xy 39.37 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4410,9 +4410,9 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_D-"
+	(global_label "FCU_USB_OTG_FS_D-"
 		(shape input)
-		(at 106.68 102.87 0)
+		(at 101.6 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4422,7 +4422,7 @@
 		)
 		(uuid "3fcb673b-176e-4375-a895-5a786365ae5c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.0866 102.87 0)
+			(at 124.6633 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4498,9 +4498,9 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_ID"
+	(global_label "FCU_USB_OTG_FS_ID"
 		(shape input)
-		(at 106.68 110.49 0)
+		(at 101.6 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4510,7 +4510,7 @@
 		)
 		(uuid "5eb71bea-4b95-4a49-8e36-057dd4f23944")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.119 110.49 0)
+			(at 123.6957 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,28 +4542,6 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_VBUS"
-		(shape input)
-		(at 50.8 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6b9a334a-6c93-4114-bc80-0bbe1c26ef4b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.2628 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NU_NRST"
 		(shape input)
 		(at 90.17 135.89 180)
@@ -4582,28 +4560,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_OTG_FS_D+"
-		(shape input)
-		(at 52.07 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7b0c6761-e7ac-47e4-947a-e8dcf1ffce41")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.4766 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -4630,6 +4586,28 @@
 			)
 		)
 	)
+	(global_label "NU_USB_FS_ID"
+		(shape input)
+		(at 46.99 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8a5fe067-b5a8-4643-b52c-ddc39308f9d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.5219 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "FCU_UART1_RX"
 		(shape input)
 		(at 161.29 38.1 180)
@@ -4652,9 +4630,9 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_VBUS"
+	(global_label "FCU_USB_OTG_FS_VBUS"
 		(shape input)
-		(at 105.41 76.2 0)
+		(at 100.33 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4664,7 +4642,7 @@
 		)
 		(uuid "930e4a6d-9334-4346-be55-3e3a55794b66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.8728 76.2 0)
+			(at 125.4495 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4740,9 +4718,9 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_D-"
+	(global_label "NU_USB_FS_D+"
 		(shape input)
-		(at 52.07 102.87 0)
+		(at 46.99 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4750,9 +4728,9 @@
 			)
 			(justify left)
 		)
-		(uuid "b62b014d-a00e-4ab6-b8bb-42eb28ab2574")
+		(uuid "b6f806ba-b39c-48c0-a6ef-84da597eb57b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.4766 102.87 0)
+			(at 64.4895 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4938,31 +4916,9 @@
 			)
 		)
 	)
-	(global_label "USB_OTG_FS_ID"
+	(global_label "FCU_USB_OTG_FS_D+"
 		(shape input)
-		(at 52.07 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dd3e7317-08a2-4608-887f-30e89308c764")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.509 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_OTG_FS_D+"
-		(shape input)
-		(at 106.68 95.25 0)
+		(at 101.6 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4972,7 +4928,29 @@
 		)
 		(uuid "e1a0910b-0bf0-4dfd-bd3f-f50a128f436e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.0866 95.25 0)
+			(at 124.6633 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NU_USB_FS_VBUS"
+		(shape input)
+		(at 45.72 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e94f5896-e345-48b7-8f86-c8e6b57b68fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.2757 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5000,6 +4978,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NU_USB_FS_D-"
+		(shape input)
+		(at 46.99 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef5bc9f0-0c01-48cf-98be-7f0b37e4a0a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5095,7 +5095,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.64 47.498 90)
 			(effects
 				(font
@@ -5113,8 +5113,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 167.64 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 167.64 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 167.64 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 167.64 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5139,7 +5166,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 48.26 110.49 90)
+		(at 43.18 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5147,7 +5174,7 @@
 		(dnp no)
 		(uuid "074136b7-a576-4122-a647-133cf7309483")
 		(property "Reference" "R43"
-			(at 48.26 105.918 90)
+			(at 43.18 105.918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5155,15 +5182,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 48.26 108.458 90)
+			(at 43.18 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 48.26 112.268 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 43.18 112.268 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5172,7 +5199,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 110.49 0)
+			(at 43.18 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,8 +5207,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 48.26 110.49 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 43.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 43.18 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 43.18 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5229,7 +5283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.64 39.878 90)
 			(effects
 				(font
@@ -5247,7 +5301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 167.64 38.1 0)
 			(effects
 				(font
@@ -5256,11 +5310,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 167.64 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 167.64 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 167.64 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a2")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abc")
 		)
 		(instances
 			(project ""
@@ -5296,7 +5377,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 238.76 36.322 90)
 			(effects
 				(font
@@ -5314,7 +5395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0 Ohms, 0,125W, 5%, 0603"
 			(at 238.76 38.1 0)
 			(effects
 				(font
@@ -5323,11 +5404,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 238.76 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 238.76 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 238.76 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a3")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abd")
 		)
 		(instances
 			(project ""
@@ -5364,7 +5472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 170.18 132.08 0)
 			(effects
 				(font
@@ -5383,6 +5491,33 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 3-pole, open"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 170.18 132.08 0)
 			(effects
 				(font
@@ -5411,7 +5546,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 44.45 86.36 180)
+		(at 39.37 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5420,23 +5555,23 @@
 		(fields_autoplaced yes)
 		(uuid "1b5b0be3-ed29-41fe-bb33-cdfb75113799")
 		(property "Reference" "D15"
-			(at 44.7675 80.01 0)
+			(at 39.6875 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
-			(at 44.7675 82.55 0)
+		(property "Value" "Schottky"
+			(at 39.6875 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 44.45 86.36 0)
+		(property "Footprint" "airplane:SOD2713X115N"
+			(at 39.37 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5445,7 +5580,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 86.36 0)
+			(at 39.37 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5453,8 +5588,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
-			(at 44.45 86.36 0)
+		(property "Description" "Schottky diode, VRRM ≥ 30 V, IF ≥ 1 A, low VF, SMD"
+			(at 39.37 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 39.37 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 39.37 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 39.37 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5641,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 104.14 0)
+		(at 22.86 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5488,7 +5650,7 @@
 		(fields_autoplaced yes)
 		(uuid "232bd777-54ce-43bf-87d2-dee4383edadb")
 		(property "Reference" "#PWR093"
-			(at 27.94 110.49 0)
+			(at 22.86 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5497,7 +5659,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 27.94 109.22 0)
+			(at 22.86 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5505,7 +5667,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 104.14 0)
+			(at 22.86 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5514,7 +5676,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 104.14 0)
+			(at 22.86 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5523,7 +5685,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 104.14 0)
+			(at 22.86 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5545,7 +5707,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 102.87 90)
+		(at 97.79 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5553,7 +5715,7 @@
 		(dnp no)
 		(uuid "2adf6555-a3a6-4988-92c0-046a07bc505b")
 		(property "Reference" "R45"
-			(at 102.87 98.298 90)
+			(at 97.79 98.298 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5561,15 +5723,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 102.87 100.838 90)
+			(at 97.79 100.838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 102.87 104.648 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 97.79 104.648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5578,7 +5740,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 102.87 0)
+			(at 97.79 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5586,8 +5748,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 102.87 102.87 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 97.79 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 97.79 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 97.79 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 97.79 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5612,7 +5801,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 115.57 86.36 270)
+		(at 110.49 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5621,7 +5810,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d374d9f-004a-41f1-9c3b-833a1c30b4d6")
 		(property "Reference" "#PWR094"
-			(at 111.76 86.36 0)
+			(at 106.68 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5630,7 +5819,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 119.38 86.3599 90)
+			(at 114.3 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5639,7 +5828,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 86.36 0)
+			(at 110.49 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5648,7 +5837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 86.36 0)
+			(at 110.49 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5657,7 +5846,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 115.57 86.36 0)
+			(at 110.49 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5679,7 +5868,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_B_Micro")
-		(at 27.94 91.44 0)
+		(at 22.86 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5688,7 +5877,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e033f99-95c4-4b91-96bb-326df502b72a")
 		(property "Reference" "J11"
-			(at 27.94 78.74 0)
+			(at 22.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,15 +5885,15 @@
 			)
 		)
 		(property "Value" "USB_B_Micro"
-			(at 27.94 81.28 0)
+			(at 22.86 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 31.75 92.71 0)
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
+			(at 26.67 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5713,7 +5902,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 92.71 0)
+			(at 26.67 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5721,8 +5910,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
-			(at 27.94 91.44 0)
+		(property "Description" "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle"
+			(at 22.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0473461001"
+			(at 22.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 22.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 22.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5851,7 +6067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 154.6352 90.17 0)
 			(effects
 				(font
@@ -5869,7 +6085,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 153.67 86.36 0)
 			(effects
 				(font
@@ -5895,7 +6138,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 110.49 90)
+		(at 97.79 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5903,7 +6146,7 @@
 		(dnp no)
 		(uuid "4d3cab0e-baac-4b08-ad47-8be29d830d1e")
 		(property "Reference" "R46"
-			(at 102.87 105.918 90)
+			(at 97.79 105.918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5911,15 +6154,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 102.87 108.458 90)
+			(at 97.79 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 102.87 112.268 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 97.79 112.268 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5928,7 +6171,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 110.49 0)
+			(at 97.79 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5936,8 +6179,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 102.87 110.49 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 97.79 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 97.79 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 97.79 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 97.79 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5985,7 +6255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 49.53 32.258 90)
 			(effects
 				(font
@@ -6003,7 +6273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 49.53 30.48 0)
 			(effects
 				(font
@@ -6012,11 +6282,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 49.53 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 49.53 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a4")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abe")
 		)
 		(instances
 			(project ""
@@ -6029,7 +6326,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 111.76 86.36 90)
+		(at 106.68 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6038,7 +6335,7 @@
 		(fields_autoplaced yes)
 		(uuid "512b9e22-ad2d-4b78-8277-26a23426581d")
 		(property "Reference" "FB6"
-			(at 111.7092 78.74 90)
+			(at 106.6292 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6046,15 +6343,15 @@
 			)
 		)
 		(property "Value" "FerriteBead"
-			(at 111.7092 81.28 90)
+			(at 106.6292 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 88.138 90)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 106.68 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6063,7 +6360,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 86.36 0)
+			(at 106.68 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6071,8 +6368,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
-			(at 111.76 86.36 0)
+		(property "Description" "100Ohms@100MHz, 1A, 0603"
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 106.68 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 106.68 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 106.68 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6187,7 +6511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
 			(at 142.24 83.82 0)
 			(effects
 				(font
@@ -6205,7 +6529,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
+		(property "Description" "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle"
+			(at 138.43 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0473461001"
+			(at 138.43 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 138.43 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 138.43 82.55 0)
 			(effects
 				(font
@@ -6215,22 +6566,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5a")
+			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5b")
 		)
 		(pin "3"
-			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7b")
+			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7c")
 		)
 		(pin "4"
-			(uuid "4f3a7ac4-1bdc-410d-a242-682586047aca")
+			(uuid "4f3a7ac4-1bdc-410d-a242-682586047acb")
 		)
 		(pin "6"
-			(uuid "750b94b4-236a-497e-9383-f34a7159d428")
+			(uuid "750b94b4-236a-497e-9383-f34a7159d429")
 		)
 		(pin "1"
-			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1e8")
+			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1e9")
 		)
 		(pin "5"
-			(uuid "76635a24-bce9-4663-992a-98d6953aaf4a")
+			(uuid "76635a24-bce9-4663-992a-98d6953aaf4b")
 		)
 		(instances
 			(project ""
@@ -6243,7 +6594,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 48.26 95.25 90)
+		(at 43.18 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6251,7 +6602,7 @@
 		(dnp no)
 		(uuid "54b0cd9d-739a-4541-8d55-971be4750376")
 		(property "Reference" "R41"
-			(at 48.26 90.678 90)
+			(at 43.18 90.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6259,15 +6610,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 48.26 93.218 90)
+			(at 43.18 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 48.26 97.028 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 43.18 97.028 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6276,7 +6627,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 95.25 0)
+			(at 43.18 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6284,8 +6635,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 48.26 95.25 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 43.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 43.18 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 43.18 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6294,10 +6672,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e6afe2ef-ba58-47ae-b5aa-cd4052d671bf")
+			(uuid "e6afe2ef-ba58-47ae-b5aa-cd4052d671c0")
 		)
 		(pin "2"
-			(uuid "16087c96-aad8-43d6-89d8-d08a94d1b065")
+			(uuid "16087c96-aad8-43d6-89d8-d08a94d1b066")
 		)
 		(instances
 			(project ""
@@ -6401,7 +6779,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:JST_PHD_B10B-PHDSS_2x05_P2.00mm_Vertical"
 			(at 49.53 140.97 0)
 			(effects
 				(font
@@ -6419,7 +6797,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Connector Header Through Hole 10 position 0.079\" (2.00mm)"
+			(at 49.53 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "B10B-PHDSS"
+			(at 49.53 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 49.53 140.97 0)
 			(effects
 				(font
@@ -6522,6 +6927,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 242.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 242.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 242.57 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "eb3b2b51-dd24-4e90-84b8-6690c23352ff")
 		)
@@ -6557,7 +6989,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 95.25 90)
+		(at 97.79 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6565,7 +6997,7 @@
 		(dnp no)
 		(uuid "68ba3ac8-2de5-4665-8756-8ac9a3cc45ab")
 		(property "Reference" "R44"
-			(at 102.87 90.678 90)
+			(at 97.79 90.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,15 +7005,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 102.87 93.218 90)
+			(at 97.79 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 102.87 97.028 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 97.79 97.028 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6590,7 +7022,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 95.25 0)
+			(at 97.79 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,8 +7030,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 102.87 95.25 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 97.79 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 97.79 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 97.79 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 97.79 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6650,7 +7109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 196.5452 99.06 0)
 			(effects
 				(font
@@ -6668,7 +7127,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 195.58 95.25 0)
 			(effects
 				(font
@@ -6694,7 +7180,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 99.06 86.36 180)
+		(at 93.98 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6703,23 +7189,23 @@
 		(fields_autoplaced yes)
 		(uuid "71fbdc7f-e437-41c7-8432-15b485fe401f")
 		(property "Reference" "D16"
-			(at 99.3775 80.01 0)
+			(at 94.2975 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
-			(at 99.3775 82.55 0)
+		(property "Value" "Schottky"
+			(at 94.2975 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 99.06 86.36 0)
+		(property "Footprint" "airplane:SOD2713X115N"
+			(at 93.98 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6728,7 +7214,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 86.36 0)
+			(at 93.98 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6736,8 +7222,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
-			(at 99.06 86.36 0)
+		(property "Description" "Schottky diode, VRRM ≥ 30 V, IF ≥ 1 A, low VF, SMD"
+			(at 93.98 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 93.98 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 93.98 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 93.98 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6844,7 +7357,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "Schottky"
 			(at 232.7275 67.31 0)
 			(effects
 				(font
@@ -6852,7 +7365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:SOD2713X115N"
 			(at 232.41 71.12 0)
 			(effects
 				(font
@@ -6870,7 +7383,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
+		(property "Description" "Schottky diode, VRRM ≥ 30 V, IF ≥ 1 A, low VF, SMD"
+			(at 232.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 232.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 232.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 232.41 71.12 0)
 			(effects
 				(font
@@ -6987,7 +7527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 168.91 72.898 90)
 			(effects
 				(font
@@ -7005,8 +7545,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "100Ohms@100MHz, 1A, 0603"
 			(at 168.91 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 168.91 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 168.91 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 168.91 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7151,29 +7718,56 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
-			(uuid "eb3b2b51-dd24-4e90-84b8-6690c23352ff")
+			(uuid "eb3b2b51-dd24-4e90-84b8-6690c2335300")
 		)
 		(pin "7"
-			(uuid "28b1d29a-5b7c-4666-943b-32572e729dfb")
+			(uuid "28b1d29a-5b7c-4666-943b-32572e729dfc")
 		)
 		(pin "2"
-			(uuid "a704f67b-0aa0-4707-9bc5-bece28f1bf7b")
+			(uuid "a704f67b-0aa0-4707-9bc5-bece28f1bf7c")
 		)
 		(pin "5"
-			(uuid "e24a1670-7655-4a4f-ace5-aa8c6bba5f1c")
+			(uuid "e24a1670-7655-4a4f-ace5-aa8c6bba5f1d")
 		)
 		(pin "1"
-			(uuid "907e18e1-125c-413b-8d05-b1b4a79c1657")
+			(uuid "907e18e1-125c-413b-8d05-b1b4a79c1658")
 		)
 		(pin "8"
-			(uuid "25e16c3f-90b7-4f90-ba50-267602bbd504")
+			(uuid "25e16c3f-90b7-4f90-ba50-267602bbd505")
 		)
 		(pin "3"
-			(uuid "371f44e1-ef83-4315-af17-a9a34299667a")
+			(uuid "371f44e1-ef83-4315-af17-a9a34299667b")
 		)
 		(pin "6"
-			(uuid "2088f772-9114-476b-80b2-09b86b5ef340")
+			(uuid "2088f772-9114-476b-80b2-09b86b5ef341")
 		)
 		(instances
 			(project ""
@@ -7307,7 +7901,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "74715065-c71b-44d0-b266-17e26315438b")
+			(uuid "74715065-c71b-44d0-b266-17e26315438c")
 		)
 		(instances
 			(project ""
@@ -7346,7 +7940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 272.7452 99.06 0)
 			(effects
 				(font
@@ -7364,7 +7958,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 271.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 271.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 271.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 271.78 95.25 0)
 			(effects
 				(font
@@ -7413,7 +8034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 179.07 77.47 0)
 			(effects
 				(font
@@ -7431,7 +8052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Green, 20mA, 2V, 0603"
 			(at 179.07 77.47 0)
 			(effects
 				(font
@@ -7441,6 +8062,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 179.07 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 179.07 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 179.07 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 179.07 77.47 0)
 			(effects
 				(font
@@ -7557,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:JST_PHD_B10B-PHDSS_2x05_P2.00mm_Vertical"
 			(at 95.25 140.97 0)
 			(effects
 				(font
@@ -7575,7 +8223,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Connector Header Through Hole 10 position 0.079\" (2.00mm)"
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "B10B-PHDSS"
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 95.25 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 95.25 140.97 0)
 			(effects
 				(font
@@ -7585,34 +8260,34 @@
 			)
 		)
 		(pin "9"
-			(uuid "cdaad02c-c3c5-46c0-9762-04057a1ae1b3")
+			(uuid "cdaad02c-c3c5-46c0-9762-04057a1ae1b4")
 		)
 		(pin "5"
-			(uuid "315aa883-346c-4fa3-a49a-fc4e2f4f50c4")
+			(uuid "315aa883-346c-4fa3-a49a-fc4e2f4f50c5")
 		)
 		(pin "10"
-			(uuid "9ad6b8f1-09a3-47b8-bc7e-b65e288c4b2f")
+			(uuid "9ad6b8f1-09a3-47b8-bc7e-b65e288c4b30")
 		)
 		(pin "4"
-			(uuid "e267df7b-48f9-4b1b-94f6-45b9651c55c5")
+			(uuid "e267df7b-48f9-4b1b-94f6-45b9651c55c6")
 		)
 		(pin "8"
-			(uuid "5868a7a1-c7ca-4898-a784-05fef8fc0b5e")
+			(uuid "5868a7a1-c7ca-4898-a784-05fef8fc0b5f")
 		)
 		(pin "7"
-			(uuid "c60d44f2-2497-493c-b6f4-9cff217429d6")
+			(uuid "c60d44f2-2497-493c-b6f4-9cff217429d7")
 		)
 		(pin "2"
-			(uuid "ee4cea2f-01b6-4612-be84-fc588bcbe6d4")
+			(uuid "ee4cea2f-01b6-4612-be84-fc588bcbe6d5")
 		)
 		(pin "6"
-			(uuid "90482bb2-cba5-40ae-9fc5-55880862b57a")
+			(uuid "90482bb2-cba5-40ae-9fc5-55880862b57b")
 		)
 		(pin "1"
-			(uuid "bd4761c1-116c-49e8-9a02-d7945284686f")
+			(uuid "bd4761c1-116c-49e8-9a02-d79452846870")
 		)
 		(pin "3"
-			(uuid "39d73aa5-b4aa-4b61-a2be-1316264ac197")
+			(uuid "39d73aa5-b4aa-4b61-a2be-1316264ac198")
 		)
 		(instances
 			(project ""
@@ -7692,7 +8367,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 57.15 86.36 90)
+		(at 52.07 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7701,7 +8376,7 @@
 		(fields_autoplaced yes)
 		(uuid "9cc94b65-3a82-4c1d-8d4a-e0fadb11673a")
 		(property "Reference" "FB5"
-			(at 57.0992 78.74 90)
+			(at 52.0192 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7709,15 +8384,15 @@
 			)
 		)
 		(property "Value" "FerriteBead"
-			(at 57.0992 81.28 90)
+			(at 52.0192 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 57.15 88.138 90)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 52.07 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7726,7 +8401,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 86.36 0)
+			(at 52.07 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7734,8 +8409,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
-			(at 57.15 86.36 0)
+		(property "Description" "100Ohms@100MHz, 1A, 0603"
+			(at 52.07 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 52.07 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 52.07 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 52.07 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7850,7 +8552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 238.76 47.498 90)
 			(effects
 				(font
@@ -7868,7 +8570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "0 Ohms, 0,125W, 5%, 0603"
 			(at 238.76 45.72 0)
 			(effects
 				(font
@@ -7877,11 +8579,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 238.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 238.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 238.76 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a5")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abf")
 		)
 		(instances
 			(project ""
@@ -7920,7 +8649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 182.88 132.08 0)
 			(effects
 				(font
@@ -7938,7 +8667,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Connector Header Through Hole, Right Angle 2 position 0.079\" (2.00mm)"
+			(at 182.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "S2B-PH-K-S"
+			(at 182.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 182.88 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 182.88 132.08 0)
 			(effects
 				(font
@@ -7964,7 +8720,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_B_Micro")
-		(at 82.55 91.44 0)
+		(at 77.47 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7973,7 +8729,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae3fe45e-a93e-4afe-a502-e8d6a3420542")
 		(property "Reference" "J12"
-			(at 82.55 78.74 0)
+			(at 77.47 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7981,15 +8737,15 @@
 			)
 		)
 		(property "Value" "USB_B_Micro"
-			(at 82.55 81.28 0)
+			(at 77.47 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 86.36 92.71 0)
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
+			(at 81.28 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7998,7 +8754,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 92.71 0)
+			(at 81.28 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8006,8 +8762,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
-			(at 82.55 91.44 0)
+		(property "Description" "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle"
+			(at 77.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0473461001"
+			(at 77.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 77.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 77.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8016,22 +8799,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5a")
+			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5c")
 		)
 		(pin "3"
-			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7b")
+			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7d")
 		)
 		(pin "4"
-			(uuid "4f3a7ac4-1bdc-410d-a242-682586047aca")
+			(uuid "4f3a7ac4-1bdc-410d-a242-682586047acc")
 		)
 		(pin "6"
-			(uuid "750b94b4-236a-497e-9383-f34a7159d428")
+			(uuid "750b94b4-236a-497e-9383-f34a7159d42a")
 		)
 		(pin "1"
-			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1e8")
+			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1ea")
 		)
 		(pin "5"
-			(uuid "76635a24-bce9-4663-992a-98d6953aaf4a")
+			(uuid "76635a24-bce9-4663-992a-98d6953aaf4c")
 		)
 		(instances
 			(project ""
@@ -8137,7 +8920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 232.1052 90.17 0)
 			(effects
 				(font
@@ -8155,7 +8938,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 231.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 231.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 231.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 231.14 86.36 0)
 			(effects
 				(font
@@ -8181,7 +8991,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 60.96 86.36 270)
+		(at 55.88 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8190,7 +9000,7 @@
 		(fields_autoplaced yes)
 		(uuid "b86ac07d-80ec-4ee6-b732-f9e3fd0efe4b")
 		(property "Reference" "#PWR092"
-			(at 57.15 86.36 0)
+			(at 52.07 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8199,7 +9009,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 64.77 86.3599 90)
+			(at 59.69 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8208,7 +9018,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 86.36 0)
+			(at 55.88 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8217,7 +9027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 86.36 0)
+			(at 55.88 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8226,7 +9036,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 60.96 86.36 0)
+			(at 55.88 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8381,7 +9191,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 48.26 102.87 90)
+		(at 43.18 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8389,7 +9199,7 @@
 		(dnp no)
 		(uuid "bf1d8abf-f0d2-4839-ad74-dcea8c7af54e")
 		(property "Reference" "R42"
-			(at 48.26 98.298 90)
+			(at 43.18 98.298 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8397,15 +9207,15 @@
 			)
 		)
 		(property "Value" "22"
-			(at 48.26 100.838 90)
+			(at 43.18 100.838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 48.26 104.648 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 43.18 104.648 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8414,7 +9224,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 102.87 0)
+			(at 43.18 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8422,8 +9232,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 48.26 102.87 0)
+		(property "Description" "22 Ohms, 0,125W, 5%, 0603"
+			(at 43.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 43.18 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 43.18 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8432,10 +9269,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e6afe2ef-ba58-47ae-b5aa-cd4052d671bf")
+			(uuid "e6afe2ef-ba58-47ae-b5aa-cd4052d671c1")
 		)
 		(pin "2"
-			(uuid "16087c96-aad8-43d6-89d8-d08a94d1b065")
+			(uuid "16087c96-aad8-43d6-89d8-d08a94d1b067")
 		)
 		(instances
 			(project ""
@@ -8464,7 +9301,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "Schottky"
 			(at 155.2575 67.31 0)
 			(effects
 				(font
@@ -8472,7 +9309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:SOD2713X115N"
 			(at 154.94 71.12 0)
 			(effects
 				(font
@@ -8490,7 +9327,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Schottky diode"
+		(property "Description" "Schottky diode, VRRM ≥ 30 V, IF ≥ 1 A, low VF, SMD"
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 154.94 71.12 0)
 			(effects
 				(font
@@ -8516,7 +9380,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 101.6 76.2 0)
+		(at 96.52 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8525,7 +9389,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8010c0b-56d9-4662-b467-41318d732be0")
 		(property "Reference" "JP3"
-			(at 101.6 69.85 0)
+			(at 96.52 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,15 +9397,15 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 101.6 72.39 0)
+			(at 96.52 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 101.6 76.2 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 96.52 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8550,7 +9414,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 76.2 0)
+			(at 96.52 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8559,7 +9423,34 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 101.6 76.2 0)
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 96.52 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8607,7 +9498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 95.25 47.498 90)
 			(effects
 				(font
@@ -8625,7 +9516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 95.25 45.72 0)
 			(effects
 				(font
@@ -8634,11 +9525,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 95.25 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 95.25 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 95.25 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a6")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac0")
 		)
 		(instances
 			(project ""
@@ -8674,7 +9592,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 186.69 79.248 90)
 			(effects
 				(font
@@ -8692,8 +9610,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
 			(at 186.69 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 186.69 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 186.69 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 186.69 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8741,7 +9686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 95.25 55.118 90)
 			(effects
 				(font
@@ -8759,7 +9704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 95.25 53.34 0)
 			(effects
 				(font
@@ -8768,11 +9713,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 95.25 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 95.25 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 95.25 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a7")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac1")
 		)
 		(instances
 			(project ""
@@ -8874,7 +9846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 95.25 39.878 90)
 			(effects
 				(font
@@ -8892,7 +9864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 95.25 38.1 0)
 			(effects
 				(font
@@ -8901,11 +9873,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 95.25 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 95.25 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 95.25 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a8")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac2")
 		)
 		(instances
 			(project ""
@@ -9008,7 +10007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 95.25 32.258 90)
 			(effects
 				(font
@@ -9026,7 +10025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 95.25 30.48 0)
 			(effects
 				(font
@@ -9035,11 +10034,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 95.25 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 95.25 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 95.25 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a9")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac3")
 		)
 		(instances
 			(project ""
@@ -9119,7 +10145,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 46.99 76.2 0)
+		(at 41.91 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -9128,7 +10154,7 @@
 		(fields_autoplaced yes)
 		(uuid "d8d42ac4-aad3-4882-afe5-e54ba6b32ce3")
 		(property "Reference" "JP2"
-			(at 46.99 69.85 0)
+			(at 41.91 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9136,15 +10162,15 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 46.99 72.39 0)
+			(at 41.91 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 46.99 76.2 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 41.91 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9153,7 +10179,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 76.2 0)
+			(at 41.91 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9162,7 +10188,34 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 46.99 76.2 0)
+			(at 41.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 41.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 41.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 41.91 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9211,7 +10264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 246.38 72.898 90)
 			(effects
 				(font
@@ -9229,8 +10282,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "100Ohms@100MHz, 1A, 0603"
 			(at 246.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 246.38 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 246.38 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 246.38 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9278,7 +10358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 256.54 77.47 0)
 			(effects
 				(font
@@ -9296,7 +10376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Green, 20mA, 2V, 0603"
 			(at 256.54 77.47 0)
 			(effects
 				(font
@@ -9306,6 +10386,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 256.54 77.47 0)
 			(effects
 				(font
@@ -9452,7 +10559,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ea75b496-f261-4d1b-a4e4-7fb149facfee")
+			(uuid "ea75b496-f261-4d1b-a4e4-7fb149facfef")
 		)
 		(instances
 			(project ""
@@ -9555,7 +10662,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 49.53 55.118 90)
 			(effects
 				(font
@@ -9573,7 +10680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 49.53 53.34 0)
 			(effects
 				(font
@@ -9582,11 +10689,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 49.53 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 49.53 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21aa")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac4")
 		)
 		(instances
 			(project ""
@@ -9599,7 +10733,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 104.14 0)
+		(at 77.47 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9608,7 +10742,7 @@
 		(fields_autoplaced yes)
 		(uuid "f937e7c3-601b-4cd1-956d-7763181388cf")
 		(property "Reference" "#PWR095"
-			(at 82.55 110.49 0)
+			(at 77.47 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9617,7 +10751,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.55 109.22 0)
+			(at 77.47 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +10759,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 104.14 0)
+			(at 77.47 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9634,7 +10768,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 104.14 0)
+			(at 77.47 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9643,7 +10777,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 104.14 0)
+			(at 77.47 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9688,7 +10822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 49.53 47.498 90)
 			(effects
 				(font
@@ -9706,7 +10840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 49.53 45.72 0)
 			(effects
 				(font
@@ -9715,11 +10849,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 49.53 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 49.53 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21ab")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac5")
 		)
 		(instances
 			(project ""
@@ -9755,7 +10916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 264.16 79.248 90)
 			(effects
 				(font
@@ -9773,8 +10934,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
 			(at 264.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 264.16 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 264.16 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 264.16 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9822,7 +11010,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 49.53 39.878 90)
 			(effects
 				(font
@@ -9840,7 +11028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 Ohms, 0,125W, 5%, 0603"
 			(at 49.53 38.1 0)
 			(effects
 				(font
@@ -9849,11 +11037,38 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 49.53 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 49.53 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 49.53 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "a368a669-e6e8-4371-b689-677cc9ba21a1")
+			(uuid "a368a669-e6e8-4371-b689-677cc9ba21ac")
 		)
 		(pin "2"
-			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6abb")
+			(uuid "ff256dca-ff95-459f-852c-1b6fde8e6ac6")
 		)
 		(instances
 			(project ""
@@ -9890,7 +11105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
 			(at 219.71 83.82 0)
 			(effects
 				(font
@@ -9908,7 +11123,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Micro Type B connector"
+		(property "Description" "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle"
+			(at 215.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0473461001"
+			(at 215.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 215.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 215.9 82.55 0)
 			(effects
 				(font
@@ -9918,22 +11160,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5a")
+			(uuid "ad078d66-7c59-41c5-882c-4b21b0beab5d")
 		)
 		(pin "3"
-			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7b")
+			(uuid "0b4daa9c-b068-44aa-9b85-f9f25b0d8b7e")
 		)
 		(pin "4"
-			(uuid "4f3a7ac4-1bdc-410d-a242-682586047aca")
+			(uuid "4f3a7ac4-1bdc-410d-a242-682586047acd")
 		)
 		(pin "6"
-			(uuid "750b94b4-236a-497e-9383-f34a7159d428")
+			(uuid "750b94b4-236a-497e-9383-f34a7159d42b")
 		)
 		(pin "1"
-			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1e8")
+			(uuid "2dc4d305-26f7-4f2d-8528-d822010cb1eb")
 		)
 		(pin "5"
-			(uuid "76635a24-bce9-4663-992a-98d6953aaf4a")
+			(uuid "76635a24-bce9-4663-992a-98d6953aaf4d")
 		)
 		(instances
 			(project ""

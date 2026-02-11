@@ -144,167 +144,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C_Polarized"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized"
-				(at 0.635 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Polarized capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Polarized_0_1"
-				(rectangle
-					(start -2.286 0.508)
-					(end 2.286 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.794) (xy -1.27 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.286 -0.508)
-					(end -2.286 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "C_Polarized_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Crystal_GND24"
 			(pin_names
 				(offset 1.016)
@@ -3346,17 +3185,6 @@
 		)
 		(uuid "44bd6245-5265-4f00-b671-0be42f4f1af3")
 	)
-	(text "C3, C10 are Tantalum\nC1, C2 are 1206\nC4, C5, C6, C7, C8, C9 are 0402\nC11, C12, C13 are 0603"
-		(exclude_from_sim no)
-		(at 14.224 191.516 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4b5e3364-b981-46f0-b825-6c8cfebcc4fc")
-	)
 	(text "Indicator LEDs"
 		(exclude_from_sim no)
 		(at 124.206 191.008 0)
@@ -3460,6 +3288,12 @@
 		(uuid "1d9986ae-c087-4eba-a59d-dcb409862b37")
 	)
 	(junction
+		(at 143.51 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dd981dd-a56e-4623-b8a2-d35edce9b133")
+	)
+	(junction
 		(at 187.96 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3532,12 +3366,6 @@
 		(uuid "6377a4cb-07a3-4fde-99c7-3a67bf24a16c")
 	)
 	(junction
-		(at 143.51 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7901d8ef-b6dd-43b3-b454-ade5620ea89a")
-	)
-	(junction
 		(at 66.04 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3580,12 +3408,6 @@
 		(uuid "9fe1375c-927c-458d-95ca-4cedb798703d")
 	)
 	(junction
-		(at 143.51 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a4394533-f570-48af-ac83-09e508be4516")
-	)
-	(junction
 		(at 158.75 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3608,6 +3430,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2eb2baf-19c8-466f-aaea-6504ab87fc7a")
+	)
+	(junction
+		(at 143.51 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f014971a-c92b-497c-810d-1cd4737d1acd")
 	)
 	(junction
 		(at 236.22 48.26)
@@ -3993,6 +3821,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 46.99) (xy 153.67 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d42e8eb-2284-4d47-b615-21187e5a8c26")
+	)
+	(wire
+		(pts
 			(xy 248.92 57.15) (xy 248.92 55.88)
 		)
 		(stroke
@@ -4243,7 +4081,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 54.61) (xy 153.67 54.61)
+			(xy 137.16 54.61) (xy 143.51 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4403,16 +4241,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 46.99) (xy 153.67 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbbf61bd-f842-4179-9ec3-fd178531bffe")
-	)
-	(wire
-		(pts
 			(xy 208.28 119.38) (xy 215.9 119.38)
 		)
 		(stroke
@@ -4450,6 +4278,16 @@
 			(type default)
 		)
 		(uuid "cb51a6d7-91b9-41d6-8e12-c3a39958a4d3")
+	)
+	(wire
+		(pts
+			(xy 143.51 54.61) (xy 153.67 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbe07fa3-6b70-46f4-9007-1853f3eccb5c")
 	)
 	(wire
 		(pts
@@ -4560,16 +4398,6 @@
 			(type default)
 		)
 		(uuid "e35b67a8-250a-4c67-afa9-67ea436653f0")
-	)
-	(wire
-		(pts
-			(xy 137.16 54.61) (xy 143.51 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7bb1f5f-a3cf-405f-a5ca-5f97367572b6")
 	)
 	(wire
 		(pts
@@ -5299,22 +5127,22 @@
 	)
 	(global_label "NU_LED_D"
 		(shape input)
-		(at 50.8 76.2 180)
+		(at 91.44 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "6c1d6a51-7157-4bca-9192-2af996698167")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.5015 76.2 0)
+			(at 103.7385 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5343,22 +5171,22 @@
 	)
 	(global_label "NU_LED_E"
 		(shape input)
-		(at 50.8 111.76 180)
+		(at 91.44 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "72bf0129-a095-4bd5-a1cc-0e938eb73855")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.6225 111.76 0)
+			(at 103.6175 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5695,22 +5523,22 @@
 	)
 	(global_label "NU_LED_A"
 		(shape input)
-		(at 91.44 114.3 0)
+		(at 50.8 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bfd1822c-61f0-48e1-9729-81d1b285adfb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.5571 114.3 0)
+			(at 38.6829 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5805,22 +5633,22 @@
 	)
 	(global_label "NU_LED_B"
 		(shape input)
-		(at 91.44 111.76 0)
+		(at 50.8 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "db11dbcd-3239-4d26-8ccd-33afddd50576")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.7385 111.76 0)
+			(at 38.5015 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6073,7 +5901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.872 173.99 90)
 			(effects
 				(font
@@ -6091,7 +5919,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
+			(at 120.65 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 120.65 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 120.65 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 120.65 173.99 0)
 			(effects
 				(font
@@ -6110,75 +5965,6 @@
 			(project "gravitumfcs"
 				(path "/7dce3647-2289-405b-b84a-b8061fb27a64/f7547d2d-2082-41bb-82fc-4edf5b75c1a0"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 143.51 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "05091a57-ed50-4f48-a0f7-75ea42353919")
-		(property "Reference" "C3"
-			(at 147.32 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 147.32 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.4752 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 143.51 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 143.51 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6ad63fa0-e1f2-401e-b3c0-720e75bec672")
-		)
-		(pin "1"
-			(uuid "ec1aabcd-a274-4717-bf71-1d474b9c84dc")
-		)
-		(instances
-			(project "gravitumfcs"
-				(path "/7dce3647-2289-405b-b84a-b8061fb27a64/f7547d2d-2082-41bb-82fc-4edf5b75c1a0"
-					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6212,7 +5998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 166.0652 54.61 0)
 			(effects
 				(font
@@ -6230,7 +6016,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 165.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 165.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 165.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 165.1 50.8 0)
 			(effects
 				(font
@@ -6348,7 +6161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 154.432 173.99 90)
 			(effects
 				(font
@@ -6366,7 +6179,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
+			(at 156.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 156.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 156.21 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 156.21 173.99 0)
 			(effects
 				(font
@@ -6409,7 +6249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "25p"
 			(at 149.86 123.1899 0)
 			(effects
 				(font
@@ -6418,7 +6258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 147.0152 125.73 0)
 			(effects
 				(font
@@ -6436,7 +6276,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 146.05 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 146.05 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 146.05 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 146.05 121.92 0)
 			(effects
 				(font
@@ -6488,7 +6355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 156.21 165.1 0)
 			(effects
 				(font
@@ -6506,7 +6373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Blue, 20mA, 3V, 0603"
 			(at 156.21 165.1 0)
 			(effects
 				(font
@@ -6517,6 +6384,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 156.21 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 156.21 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 156.21 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 156.21 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6565,7 +6459,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 223.52 100.838 90)
 			(effects
 				(font
@@ -6583,8 +6477,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10k Ohms, 0,125W, 5%, 0603"
 			(at 223.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 223.52 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 223.52 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 223.52 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,7 +6556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 249.8852 55.88 0)
 			(effects
 				(font
@@ -6653,7 +6574,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 248.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 248.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 248.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 248.92 52.07 0)
 			(effects
 				(font
@@ -6696,7 +6644,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "620"
 			(at 173.99 113.0299 0)
 			(effects
 				(font
@@ -6705,7 +6653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 169.672 111.76 90)
 			(effects
 				(font
@@ -6723,7 +6671,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "620 Ohms, 0,125W, 5%, 0603"
+			(at 171.45 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 171.45 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 171.45 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 171.45 111.76 0)
 			(effects
 				(font
@@ -6775,7 +6750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 237.1852 55.88 0)
 			(effects
 				(font
@@ -6793,7 +6768,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 236.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 236.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 236.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 236.22 52.07 0)
 			(effects
 				(font
@@ -6911,7 +6913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 127.762 173.99 90)
 			(effects
 				(font
@@ -6929,7 +6931,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
+			(at 129.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 129.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 173.99 0)
 			(effects
 				(font
@@ -6981,7 +7010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 206.502 124.46 90)
 			(effects
 				(font
@@ -6999,7 +7028,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4k7 Ohms, 0,125W, 5%, 0603"
+			(at 208.28 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 208.28 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 208.28 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 208.28 124.46 0)
 			(effects
 				(font
@@ -7049,7 +7105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:SW_TL3365AF180QG"
 			(at 168.91 72.39 0)
 			(effects
 				(font
@@ -7067,7 +7123,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, symbol, four pins"
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
+			(at 168.91 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TL3365AF180QG"
+			(at 168.91 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 168.91 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 168.91 80.01 0)
 			(effects
 				(font
@@ -7125,7 +7208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 136.652 173.99 90)
 			(effects
 				(font
@@ -7143,7 +7226,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
+			(at 138.43 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 138.43 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 138.43 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 138.43 173.99 0)
 			(effects
 				(font
@@ -7259,7 +7369,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 223.52 81.788 90)
 			(effects
 				(font
@@ -7277,8 +7387,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10k Ohms, 0,125W, 5%, 0603"
 			(at 223.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 223.52 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 223.52 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 223.52 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7329,7 +7466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 120.65 165.1 0)
 			(effects
 				(font
@@ -7347,7 +7484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Red, 20mA, 2V, 0603"
 			(at 120.65 165.1 0)
 			(effects
 				(font
@@ -7358,6 +7495,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 120.65 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 120.65 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 120.65 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 120.65 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7473,7 +7637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 259.08 50.038 90)
 			(effects
 				(font
@@ -7491,8 +7655,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead"
+		(property "Description" "600Ohms@100MHz, 0,2 Ohms DC, 0603"
 			(at 259.08 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 259.08 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 259.08 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 259.08 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7543,7 +7734,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 129.54 165.1 0)
 			(effects
 				(font
@@ -7561,7 +7752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Red, 20mA, 2V, 0603"
 			(at 129.54 165.1 0)
 			(effects
 				(font
@@ -7572,6 +7763,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 129.54 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 129.54 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7689,7 +7907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 214.122 124.46 90)
 			(effects
 				(font
@@ -7707,7 +7925,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4k7 Ohms, 0,125W, 5%, 0603"
+			(at 215.9 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 215.9 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 215.9 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 215.9 124.46 0)
 			(effects
 				(font
@@ -7759,7 +8004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 177.4952 54.61 0)
 			(effects
 				(font
@@ -7777,7 +8022,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 176.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 176.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 176.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 176.53 50.8 0)
 			(effects
 				(font
@@ -7829,7 +8101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 44.1452 137.16 0)
 			(effects
 				(font
@@ -7847,7 +8119,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0805"
+			(at 43.18 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 43.18 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 43.18 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 43.18 133.35 0)
 			(effects
 				(font
@@ -7890,7 +8189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "25p"
 			(at 175.26 123.1899 0)
 			(effects
 				(font
@@ -7899,7 +8198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 172.4152 125.73 0)
 			(effects
 				(font
@@ -7917,7 +8216,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0603"
+			(at 171.45 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 171.45 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 171.45 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 171.45 121.92 0)
 			(effects
 				(font
@@ -7969,7 +8295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 138.43 165.1 0)
 			(effects
 				(font
@@ -7987,7 +8313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Green, 20mA, 2V, 0603"
 			(at 138.43 165.1 0)
 			(effects
 				(font
@@ -7998,6 +8324,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 138.43 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 138.43 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 138.43 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 138.43 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8048,7 +8401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 188.9252 54.61 0)
 			(effects
 				(font
@@ -8066,7 +8419,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 187.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 187.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 187.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 187.96 50.8 0)
 			(effects
 				(font
@@ -8403,7 +8783,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64"
+		(property "Description" "ARM® Cortex®-M4 STM32F4 Microcontroller IC 32-Bit 168MHz 1MB (1M x 8) FLASH 64-LQFP (10x10)"
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "STM32F405RGT6"
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 71.12 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 71.12 99.06 0)
 			(effects
 				(font
@@ -8639,7 +9046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 234.95 90.17 0)
 			(effects
 				(font
@@ -8657,7 +9064,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" "Slide Switch SPDT Surface Mount, Right Angle"
+			(at 234.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PCM12SMTR"
+			(at 234.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 234.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 234.95 80.01 0)
 			(effects
 				(font
@@ -8679,6 +9113,103 @@
 			(project "gravitumfcs"
 				(path "/7dce3647-2289-405b-b84a-b8061fb27a64/f7547d2d-2082-41bb-82fc-4edf5b75c1a0"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 143.51 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b076671-727e-477a-b58c-5692fdaf6a22")
+		(property "Reference" "C3"
+			(at 147.32 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 147.32 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 144.4752 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "X7R, 10V, 0603"
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 143.51 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c63d108a-5de2-4880-9003-ee1039b0c088")
+		)
+		(pin "1"
+			(uuid "6a8c316e-0e9d-44e8-93f1-719297f09e2b")
+		)
+		(instances
+			(project "gravitumfcs"
+				(path "/7dce3647-2289-405b-b84a-b8061fb27a64/f7547d2d-2082-41bb-82fc-4edf5b75c1a0"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -8712,7 +9243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 157.1752 90.17 0)
 			(effects
 				(font
@@ -8730,7 +9261,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 156.21 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 156.21 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 156.21 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 156.21 86.36 0)
 			(effects
 				(font
@@ -8782,7 +9340,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 145.542 173.99 90)
 			(effects
 				(font
@@ -8800,7 +9358,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "560 Ohms, 0,125W, 5%, 0603"
+			(at 147.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 147.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 147.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 147.32 173.99 0)
 			(effects
 				(font
@@ -8852,7 +9437,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 147.32 165.1 0)
 			(effects
 				(font
@@ -8870,7 +9455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Blue, 20mA, 3V, 0603"
 			(at 147.32 165.1 0)
 			(effects
 				(font
@@ -8881,6 +9466,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 147.32 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 147.32 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 147.32 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 147.32 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8931,7 +9543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 200.3552 54.61 0)
 			(effects
 				(font
@@ -8949,7 +9561,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 199.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 199.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 199.39 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 199.39 50.8 0)
 			(effects
 				(font
@@ -9200,7 +9839,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane:XTAL_ABM8G-25.000MHZ-18-D2Y-T"
 			(at 158.75 116.84 0)
 			(effects
 				(font
@@ -9218,7 +9857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(property "Description" "25 MHz ±20ppm Crystal 18pF 60 Ohms 4-SMD, No Lead"
 			(at 158.75 116.84 0)
 			(effects
 				(font
@@ -9240,6 +9879,15 @@
 		(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
 			(at 158.75 132.08 0)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ABM8G-25.000MHZ-18-D2Y-T"
+			(at 158.75 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9296,7 +9944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 154.6352 54.61 0)
 			(effects
 				(font
@@ -9314,7 +9962,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0402"
+			(at 153.67 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 153.67 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 153.67 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 153.67 50.8 0)
 			(effects
 				(font
@@ -9497,7 +10172,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 234.95 109.22 0)
 			(effects
 				(font
@@ -9515,7 +10190,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" "Slide Switch SPDT Surface Mount, Right Angle"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PCM12SMTR"
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 234.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -9702,7 +10404,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 33.9852 137.16 0)
 			(effects
 				(font
@@ -9720,7 +10422,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "X7R, 10V, 0805"
+			(at 33.02 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 33.02 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 33.02 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 33.02 133.35 0)
 			(effects
 				(font
